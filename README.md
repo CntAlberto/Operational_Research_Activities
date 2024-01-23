@@ -1,5 +1,6 @@
 # Operational_Research_Activities
 In this repository there's all the activities' tasks given by Foundation of Operational Research course at Politecnico di Milano, Computer Science and Engineering master's degree <br>
+Academic Year: 2023-2024 <br>
 ## Authors:
 - ### 10766393    Alberto Cantele ([@CntAlberto](https://github.com/CntAlberto))<br>alberto.cantele@mail.polimi.it
 - ### 10767701    Biagio Cancelliere ([@Biasinobibi](https://github.com/Biasinobibi))<br>biagio.cancelliere@mail.polimi.it
